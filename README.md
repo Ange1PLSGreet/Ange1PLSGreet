@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm 小天使请安</h1>
-<h3 align="center">PHP/Python/Java全栈程序员</h3>
+<h1 align="left">Hi 👋, I'm 小天使请安</h1>
+<h3 align="left">PHP/Python/Java全栈程序员</h3>
 
 - 🔭 I’m currently working on [Lamina](https://bgithub.xyz/ziyang-bai/Lamina)
 
-- 📫 How to reach me: COntact My Email: **2662623485@qq,com**
+- 📫 How to reach me: Contact My Email: **2662623485@qq,com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

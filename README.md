@@ -11,12 +11,6 @@
 
 - 📫 How to reach me: Contact My Email: **2662623485@qq,com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
 # Skills:
 C/CPP
 JAVA

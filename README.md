@@ -7,7 +7,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ange1plsgreet&show_icons=true&locale=en&layout=compact" alt="ange1plsgreet" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ange1plsgreet&show_icons=true&locale=en" alt="ange1plsgreet" /></p>
 
-- 🔭 I’m currently working on [Lamina](https://bgithub.xyz/ziyang-bai/Lamina)
+- 🔭 I’m currently working on [Lamina](https://github.com/ziyang-bai/Lamina)
 
 - 📫 How to reach me: Contact My Email: **2662623485@qq,com**
 
